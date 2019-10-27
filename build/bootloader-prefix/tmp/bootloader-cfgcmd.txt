@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DSDKCONFIG=/home/rob/esp/i2c_tools/sdkconfig;-DIDF_PATH=/home/rob/esp/esp-idf;-DIDF_TARGET=esp32;-DPYTHON_DEPS_CHECKED=1;-DPYTHON=/home/rob/.espressif/python_env/idf4.1_py2.7_env/bin/python;-DEXTRA_COMPONENT_DIRS=/home/rob/esp/esp-idf/components/bootloader;-DLEGACY_INCLUDE_COMMON_HEADERS=;-GNinja;/home/rob/esp/esp-idf/components/bootloader/subproject'
